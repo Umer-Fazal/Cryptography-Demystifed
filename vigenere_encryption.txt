@@ -1,0 +1,20 @@
+Plain text: Hello World
+Cipher text: sixzbhsdzq
+Key: lemon
+
+Plain text: Meet me at the toga party
+Cipher text: kipeaayxesspmklaonrc
+Key: yellow
+
+Plain text: Meet me tomorrow
+Cipher text: xiqhzpxaabcvak
+Key: lemon
+
+Plain text: aboriginal
+Cipher text: slmjseaxyd
+Key: sky
+
+Plain text: hello
+Cipher text: rijvs
+Key: key
+

@@ -1,0 +1,20 @@
+Plain text: Meetmeatthetogaparty
+Cipher text: eaeatMmtoatttpyeehgr
+Key: 3142
+
+Plain text: Meetmenow
+Cipher text: eewmtnemo
+Key: 312
+
+Plain text: abroad
+Cipher text: rdaoba
+Key: 312
+
+Plain text: Attacktoday
+Cipher text: tkdaatatcoy
+Key: 312
+
+Plain text: Howareyou
+Cipher text: orohayweu
+Key: 213
+

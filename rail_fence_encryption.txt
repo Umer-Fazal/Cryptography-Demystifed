@@ -1,0 +1,24 @@
+Plain text: HELLOWORLD
+Cipher text: HOLELWRDLO
+Key: 3
+
+Plain text: Meetmeatthetogaparty
+Cipher text: Maoteettgryemteaathp
+Key: 4
+
+Plain text: Helloworld
+Cipher text: Holelwrdlo
+Key: 3
+
+Plain text: accessibility
+Cipher text: asiycesbltcii
+Key: 3
+
+Plain text: HelloWorld
+Cipher text: HolelWrdlo
+Key: 3
+
+Plain text: shgdhjhsgdjhgasjdgfjhgasdjf
+Cipher text: shgfdhjshagjsjghgjsdhafddjg
+Key: 4
+

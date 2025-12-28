@@ -1,0 +1,8 @@
+Plain text: Oak
+Cipher text: COH
+Key: Son
+
+Plain text: umer
+Cipher text: FMMC
+Key: rain
+

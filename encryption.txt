@@ -1,0 +1,28 @@
+Plain text: camera wo wo camera wo wo
+Cipher text: geqiveasasgeqiveasas
+Key: d
+
+Plain text: ankara messi ankara messi goal
+Cipher text: hurhyhtlzzphurhyhtlzzpnvhs
+Key: g
+
+Plain text: hello world
+Cipher text: ifmmpxpsme
+Key: a
+
+Plain text: hello
+Cipher text: hello
+Key: 3
+
+Plain text: hello
+Cipher text: jgnnq
+Key: b
+
+Plain text: hello
+Cipher text: khoor
+Key: c
+
+Plain text: hello
+Cipher text: jgnnq
+Key: b
+
